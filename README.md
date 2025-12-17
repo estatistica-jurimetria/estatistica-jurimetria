@@ -16,9 +16,11 @@ Aqui você encontrará projetos voltados para:
 - Jurimetria  
 - Estatística Aplicada  
 - Ciência de Dados  
-- Análise Exploratória de Dados (EDA)  
+- Análise Exploratória de Dados  
 - Modelagem Estatística  
-- Pesquisa Quantitativa  
+- Pesquisa Quantitativa
+- Web Scraping e API's
+- Relatórios dinâmicos e APP's web
 
 ---
 

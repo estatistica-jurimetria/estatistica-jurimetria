@@ -1,16 +1,45 @@
-## Hi there 👋
+# 📊 Estatística & Jurimetria
 
-<!--
-**estatistica-jurimetria/estatistica-jurimetria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu GitHub!  
+Este espaço é dedicado à **aplicação de métodos estatísticos, ciência de dados e análise empírica no Direito**, com foco em **jurimetria, políticas públicas e pesquisa aplicada**.
 
-Here are some ideas to get you started:
+Aqui você encontrará projetos voltados para:
+- Análise de dados judiciais
+- Estatística aplicada ao Direito
+- Visualização e interpretação de dados jurídicos
+- Modelos estatísticos para tomada de decisão
+- Ensino e divulgação científica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚖️ Áreas de Atuação
+
+- Jurimetria  
+- Estatística Aplicada  
+- Ciência de Dados  
+- Análise Exploratória de Dados (EDA)  
+- Modelagem Estatística  
+- Pesquisa Quantitativa  
+- Avaliação de Políticas Públicas
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens:** Python, R, SQL  
+
+---
+
+## 📊 Objetivo
+
+Promover o uso de ferramenta de análises em **evidências empíricas e métodos quantitativos** para apoiar decisões no âmbito jurídico, acadêmico e institucional, contribuindo para um Direito mais transparente, eficiente e baseado em dados.
+
+---
+
+## 📫 Contato
+
+📧 **Email:** estatistica-jurimetria@gmail.com  
+
+---
+
+⭐ *Explore os repositórios, utilize os códigos e fique à vontade para contribuir!*

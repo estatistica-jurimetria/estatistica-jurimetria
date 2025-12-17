@@ -1,7 +1,6 @@
-# 📊 Estatística & Jurimetria
+# Estatística & Jurimetria
 
-Bem-vindo(a) ao meu GitHub!  
-Este espaço é dedicado à **aplicação de métodos estatísticos, ciência de dados e análise empírica no Direito**, com foco em **jurimetria, políticas públicas e pesquisa aplicada**.
+Este espaço é dedicado à **aplicação de métodos estatísticos, ciência de dados e análise empírica no Direito**, com foco em **jurimetria e pesquisa aplicada**.
 
 Aqui você encontrará projetos voltados para:
 - Análise de dados judiciais
@@ -20,19 +19,18 @@ Aqui você encontrará projetos voltados para:
 - Análise Exploratória de Dados (EDA)  
 - Modelagem Estatística  
 - Pesquisa Quantitativa  
-- Avaliação de Políticas Públicas
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- **Linguagens:** Python, R, SQL  
+- **Linguagens:** Python, R 
 
 ---
 
 ## 📊 Objetivo
 
-Promover o uso de ferramenta de análises em **evidências empíricas e métodos quantitativos** para apoiar decisões no âmbito jurídico, acadêmico e institucional, contribuindo para um Direito mais transparente, eficiente e baseado em dados.
+Promover o uso de ferramentas de análises em **evidências empíricas e métodos quantitativos** para apoiar decisões no âmbito jurídico, acadêmico e institucional, contribuindo para um Direito mais transparente, eficiente e baseado em dados.
 
 ---
 
